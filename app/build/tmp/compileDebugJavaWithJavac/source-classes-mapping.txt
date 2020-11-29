@@ -1,0 +1,50 @@
+com/mustafa/ejob/MyApplication.java
+ com.mustafa.ejob.MyApplication
+com/mustafa/ejob/databinding/ActivityCompanyBinding.java
+ com.mustafa.ejob.databinding.ActivityCompanyBinding
+com/mustafa/ejob/databinding/ActivityAddNewJobBinding.java
+ com.mustafa.ejob.databinding.ActivityAddNewJobBinding
+com/mustafa/ejob/databinding/ActivitySuitableJobsBinding.java
+ com.mustafa.ejob.databinding.ActivitySuitableJobsBinding
+com/mustafa/ejob/DataBindingTriggerClass.java
+ com.mustafa.ejob.DataBindingTriggerClass
+com/mustafa/ejob/databinding/ActivityCandidateBinding.java
+ com.mustafa.ejob.databinding.ActivityCandidateBinding
+com/mustafa/ejob/databinding/ActivityAddNewDiplomaBinding.java
+ com.mustafa.ejob.databinding.ActivityAddNewDiplomaBinding
+com/mustafa/ejob/BuildConfig.java
+ com.mustafa.ejob.BuildConfig
+com/mustafa/ejob/databinding/ActivitySuitableCandidatesBinding.java
+ com.mustafa.ejob.databinding.ActivitySuitableCandidatesBinding
+com/mustafa/ejob/databinding/ActivitySignUpBinding.java
+ com.mustafa.ejob.databinding.ActivitySignUpBinding
+com/mustafa/ejob/CandidateActivity.java
+ com.mustafa.ejob.CandidateActivity
+ com.mustafa.ejob.CandidateActivity$1
+ com.mustafa.ejob.CandidateActivity$2
+com/mustafa/ejob/SuitableJobsActivity.java
+ com.mustafa.ejob.SuitableJobsActivity
+ com.mustafa.ejob.SuitableJobsActivity$1
+com/mustafa/ejob/MainActivity.java
+ com.mustafa.ejob.MainActivity
+ com.mustafa.ejob.MainActivity$1
+com/mustafa/ejob/SuitableCandidatesActivity.java
+ com.mustafa.ejob.SuitableCandidatesActivity
+ com.mustafa.ejob.SuitableCandidatesActivity$1
+com/mustafa/ejob/AddNewDiplomaActivity.java
+ com.mustafa.ejob.AddNewDiplomaActivity
+ com.mustafa.ejob.AddNewDiplomaActivity$1
+com/mustafa/ejob/CompanyActivity.java
+ com.mustafa.ejob.CompanyActivity
+ com.mustafa.ejob.CompanyActivity$1
+ com.mustafa.ejob.JobListAdapter
+ com.mustafa.ejob.JobListAdapter$1
+ com.mustafa.ejob.JobListAdapter$JobDiff
+ com.mustafa.ejob.JobListAdapter$JobViewHolder
+com/mustafa/ejob/AddNewJobActivity.java
+ com.mustafa.ejob.AddNewJobActivity
+ com.mustafa.ejob.AddNewJobActivity$1
+ com.mustafa.ejob.AddNewJobActivity$2
+com/mustafa/ejob/SignUpActivity.java
+ com.mustafa.ejob.SignUpActivity
+ com.mustafa.ejob.SignUpActivity$1

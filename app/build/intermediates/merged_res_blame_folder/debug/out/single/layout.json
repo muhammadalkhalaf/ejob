@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/muhammedalkhalaf/Downloads/Ejob/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/Users/muhammedalkhalaf/Downloads/Ejob/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/muhammedalkhalaf/Downloads/Ejob/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_candidate.xml",
+        "source": "/Users/muhammedalkhalaf/Downloads/Ejob/app/src/main/res/layout/activity_candidate.xml"
+    },
+    {
+        "merged": "/Users/muhammedalkhalaf/Downloads/Ejob/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_add_new_diploma.xml",
+        "source": "/Users/muhammedalkhalaf/Downloads/Ejob/app/src/main/res/layout/activity_add_new_diploma.xml"
+    },
+    {
+        "merged": "/Users/muhammedalkhalaf/Downloads/Ejob/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_suitable_jobs.xml",
+        "source": "/Users/muhammedalkhalaf/Downloads/Ejob/app/src/main/res/layout/activity_suitable_jobs.xml"
+    },
+    {
+        "merged": "/Users/muhammedalkhalaf/Downloads/Ejob/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_suitable_candidates.xml",
+        "source": "/Users/muhammedalkhalaf/Downloads/Ejob/app/src/main/res/layout/activity_suitable_candidates.xml"
+    },
+    {
+        "merged": "/Users/muhammedalkhalaf/Downloads/Ejob/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_company.xml",
+        "source": "/Users/muhammedalkhalaf/Downloads/Ejob/app/src/main/res/layout/activity_company.xml"
+    },
+    {
+        "merged": "/Users/muhammedalkhalaf/Downloads/Ejob/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_add_new_job.xml",
+        "source": "/Users/muhammedalkhalaf/Downloads/Ejob/app/src/main/res/layout/activity_add_new_job.xml"
+    }
+]
